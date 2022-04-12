@@ -1,0 +1,1 @@
+'''Faça um programa que calcule a quantidade de dias corridos entre duas datas.'''
