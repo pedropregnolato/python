@@ -20,7 +20,7 @@ if vp > 80 and vp < 121:
     
 
 
-'''Programa que calcula a soma do salario + baneficios e faz uma média salarial e informa se é Desenvolvedor Pleno ou Senior:
+'''Programa que calcula a soma do salario + baneficios anuais e faz uma média salarial mensal, informando se é Desenvolvedor Junior, Pleno ou Senior:
 Junior = abaixo de R$8.000
 Pleno = De R$9.000 até R$15.000
 Senior = Acima de R$15.000'''
