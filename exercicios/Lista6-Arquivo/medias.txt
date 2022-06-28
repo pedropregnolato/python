@@ -1,0 +1,5 @@
+Aluno1 | Media: 3.5
+Aluno2 | Media: 8.0
+Aluno3 | Media: 6.0
+Aluno4 | Media: 5.5
+Aluno5 | Media: 9.0
