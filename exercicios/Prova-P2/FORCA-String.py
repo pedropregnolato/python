@@ -1,4 +1,4 @@
-''' 1) Constua um jogo da forca. '''
+'''Constua um jogo da forca.'''
 
 from ast import While
 
